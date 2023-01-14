@@ -2,7 +2,7 @@
 
 Video 
 
-<iframe src="https://drive.google.com/file/d/17y_qehnh_12uEaR2XqUCSyBR8qzYASGy/preview" ></iframe>
+"https://drive.google.com/file/d/17y_qehnh_12uEaR2XqUCSyBR8qzYASGy/preview" 
 
 Código
 
